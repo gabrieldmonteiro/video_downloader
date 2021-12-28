@@ -1,5 +1,8 @@
-# video_downloader
+# video_downloader ( developing )
 
 You need to set Environment Variables:
 
 •OUTPUT_PATH = [Path]
+
+## ...Current Features... 
+* Just CLI, Youtube videos, Highest Quality
