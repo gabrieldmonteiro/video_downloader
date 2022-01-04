@@ -1,4 +1,4 @@
 from youtube import get_youtube_video
+from gui import load_gui
 
-url = input("Video URL:")
-get_youtube_video(None, url)
+load_gui()
