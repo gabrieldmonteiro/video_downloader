@@ -5,7 +5,7 @@ import os
 # Youtube Example link: https://youtu.be/T_1Nx5YSuOA
 
 
-def get_youtube_video(self, url: str):
+def get_youtube_video(url: str):
     ydl_opts = {
         'outtmpl': os.getenv("OUTPUT_PATH") + '/%(title)s.%(ext)s',
     }
